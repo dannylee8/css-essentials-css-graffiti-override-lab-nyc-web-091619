@@ -10,5 +10,11 @@ div#wall > div#tag-3.slick {
   display: none;
 }
 
+div#wall > div#tag-4 {
+  display: none;
+}
+
+
+
 
 /* write your override styles here + 
