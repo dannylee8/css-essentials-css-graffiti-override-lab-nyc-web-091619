@@ -1,7 +1,8 @@
 div#wall > div.tag-1 {
-
-    display: none;
+    display: block;
 }
+
+
 
 
 /* write your override styles here + 
